@@ -4,7 +4,7 @@
 
 ## Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my profile!
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)https://www.linkedin.com/in/brnborges/
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 ![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white)
 ![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)
 
