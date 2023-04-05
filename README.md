@@ -6,9 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brnborges/https://www.linkedin.com/in/brnborges/)](https://www.linkedin.com/in/brnborges/)
 
-I'm a full stack developer with a great passion for web development and building things to make people's life easier!
+I'm a front-end developer with a great passion for web development and building things to make people's life easier!
 
-- :rocket: Technical skills and interests: JS/TS, HTML & CSS, NodeJS, ReactJS, React Native, AWS, Docker, MongoDB.
+- :rocket: Technical skills and interests: JS/TS, HTML & CSS, NodeJS, ReactJS, React Native, MongoDB.
 - 🌱 I’m currently learning NodeJS and React Native to become a full-stack developer!
 - 👯 I’m looking to collaborate on React and Node projects that captivate me.
 - 😄 Trying to practice clean architecture knowledge to create a quality and scalable code.
